@@ -164,11 +164,11 @@
   
   .section-title {
     font-size: 55px;
-    color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
     display: inline-block;
+    padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
+    margin-bottom: 35px;
+    color: #024e76;
   }
   
   .primary-border {
@@ -226,3 +226,20 @@
     text-align: right;
   }
   
+  .contact h2 {
+      color: #fce138
+  }
+
+  .contact-info iframe {
+      width: 400px;
+      height: 400px;
+  }
+
+  .contact-info div {
+      width: 410px;
+      display: inline-block;
+      vertical-align: top;
+      text-align: left;
+      margin: 20px 0 0 60px;
+      color: white;
+  }
